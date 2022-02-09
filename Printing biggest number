@@ -1,0 +1,21 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+a=int(input("Enter number"))
+b=int(input("Enter number"))
+if(a>b):
+    print("a is bigger than b")
+else:
+    print("b is biggre than a")
+
+
+output:
+Enter number
+20
+Enter number
+68
+b is biggre than a
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
